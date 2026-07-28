@@ -1,0 +1,4 @@
+id,cliente_id,data,assunto,pergunta,resposta,observacoes,pendencias
+1,1,2026-04-10,Renda Variável,"Vale a pena investir em ETFs internacionais?","Explicada a exposição cambial e a diversificação proporcionada pelo IVVB11, compatível com o perfil moderado do cliente.","Cliente demonstrou receio quanto à volatilidade cambial.","Nenhuma"
+2,1,2026-05-18,Planejamento,"Como está a evolução da minha carteira para aposentadoria?","Apresentada a composição atual da carteira e a aderência ao horizonte de longo prazo definido no objetivo financeiro.","Cliente reforçou preferência por manter reserva de emergência líquida.","Nenhuma"
+3,1,2026-06-25,Renda Fixa,"O Tesouro IPCA+ ainda é uma boa opção com a Selic atual?","Explicada a relação entre IPCA+, marcação a mercado e horizonte de longo prazo, destacando a proteção contra inflação.","Cliente solicitou reavaliação em caso de mudança no cenário de juros.","Acompanhar próxima decisão do COPOM"

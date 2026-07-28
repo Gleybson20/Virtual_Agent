@@ -1,0 +1,87 @@
+[
+  {
+    "produto_id": 1,
+    "nome": "Tesouro Selic 2029",
+    "categoria": "Renda Fixa",
+    "subcategoria": "Tesouro Direto",
+    "ticker": "LFT",
+    "risco": "Baixo",
+    "liquidez": "Diária",
+    "rentabilidade": "Selic",
+    "tributacao": "Imposto de Renda Regressivo",
+    "valor_minimo": 100.00,
+    "perfil_recomendado": [
+      "Conservador",
+      "Moderado"
+    ],
+    "descricao": "Título público indicado para reserva de emergência."
+  },
+  {
+    "produto_id": 2,
+    "nome": "Tesouro IPCA+ 2035",
+    "categoria": "Renda Fixa",
+    "subcategoria": "Tesouro Direto",
+    "ticker": "NTN-B",
+    "risco": "Baixo",
+    "liquidez": "Diária",
+    "rentabilidade": "IPCA + Juros",
+    "tributacao": "Imposto de Renda Regressivo",
+    "valor_minimo": 100.00,
+    "perfil_recomendado": [
+      "Moderado",
+      "Arrojado"
+    ],
+    "descricao": "Proteção contra inflação para objetivos de longo prazo."
+  },
+  {
+    "produto_id": 3,
+    "nome": "CDB Banco XPTO",
+    "categoria": "Renda Fixa",
+    "subcategoria": "CDB",
+    "ticker": null,
+    "risco": "Baixo",
+    "liquidez": "No vencimento",
+    "rentabilidade": "110% do CDI",
+    "tributacao": "Imposto de Renda Regressivo",
+    "valor_minimo": 1000.00,
+    "perfil_recomendado": [
+      "Conservador",
+      "Moderado"
+    ],
+    "descricao": "Certificado de Depósito Bancário com cobertura do FGC."
+  },
+  {
+    "produto_id": 4,
+    "nome": "IVVB11",
+    "categoria": "ETF",
+    "subcategoria": "Internacional",
+    "ticker": "IVVB11",
+    "risco": "Alto",
+    "liquidez": "Diária",
+    "rentabilidade": "Varia conforme o mercado",
+    "tributacao": "Imposto sobre ganho de capital",
+    "valor_minimo": 1.00,
+    "perfil_recomendado": [
+      "Moderado",
+      "Arrojado"
+    ],
+    "descricao": "ETF que replica o desempenho do índice S&P 500."
+  },
+  {
+    "produto_id": 5,
+    "nome": "KNRI11",
+    "categoria": "FII",
+    "subcategoria": "Lajes Corporativas",
+    "ticker": "KNRI11",
+    "risco": "Médio",
+    "liquidez": "Diária",
+    "rentabilidade": "Dividendos + valorização",
+    "tributacao": "Dividendos isentos conforme legislação vigente",
+    "valor_minimo": 1.00,
+    "perfil_recomendado": [
+      "Moderado",
+      "Arrojado"
+    ],
+    "descricao": "Fundo Imobiliário com foco em lajes corporativas e galpões logísticos."
+  }
+]

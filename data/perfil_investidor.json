@@ -1,0 +1,24 @@
+[
+  {
+    "cliente_id": 1,
+    "nome": "Carlos Eduardo Silva",
+    "idade": 35,
+    "estado_civil": "Casado",
+    "dependentes": 2,
+    "profissao": "Engenheiro Civil",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "pais": "Brasil",
+    "perfil": "Moderado",
+    "objetivo_financeiro": "Aposentadoria",
+    "horizonte_investimento": "Longo Prazo",
+    "experiencia_investimentos": "Intermediária",
+    "patrimonio_total": 420000.00,
+    "renda_mensal": 18000.00,
+    "despesas_mensais": 9500.00,
+    "reserva_emergencia": 65000.00,
+    "tolerancia_risco": "Média",
+    "necessidade_liquidez": "Média",
+    "ultimo_questionario_suitability": "2026-06-20"
+  }
+]
